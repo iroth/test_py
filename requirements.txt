@@ -11,11 +11,10 @@ Flask-JWT-Extended==3.9.1
 Flask-PyMongo==0.5.1
 Flask-RESTful==0.3.6
 flask-restplus==0.10.1
-Flask-WTF==0.14.2
 httplib2==0.11.3
 Markdown==2.6.11
 passlib==1.7.1
-pycryptodome==3.6.1
+pycryptodomex==3.6.1
 PyJWT==1.6.1
 pymongo==3.6.1
 pystache==0.5.4
