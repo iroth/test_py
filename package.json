@@ -3,7 +3,6 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
-    "@kang-health/web-chat-view": "https://b11feaf45fa769f5419051d686b58778738a6bfc@github.com/kang-health/web-chat-view.git#v1.0.5",
     "admin-on-rest": "^1.4.1",
     "animated": "^0.2.2",
     "aor-embedded-array": "^0.1.0",
@@ -20,12 +19,10 @@
     "react": "^16.3.2",
     "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
     "remove-markdown": "^0.2.2",
     "reselect": "^3.0.1",
     "rtl-detect": "^1.0.2"
-  },
-  "devDependencies": {
-    "react-scripts": "1.1.4"
   },
   "scripts": {
     "start": "react-scripts start",
