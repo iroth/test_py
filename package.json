@@ -1,0 +1,38 @@
+{
+  "name": "frontend",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@kang-health/web-chat-view": "https://b11feaf45fa769f5419051d686b58778738a6bfc@github.com/kang-health/web-chat-view.git#v1.0.5",
+    "admin-on-rest": "^1.4.1",
+    "animated": "^0.2.2",
+    "aor-embedded-array": "^0.1.0",
+    "assert": "^1.4.1",
+    "bfj-node4": "^5.3.1",
+    "contentful-export": "^7.0.0",
+    "git-branch": "^2.0.1",
+    "iconv-lite": "^0.4.23",
+    "lodash": "^4.17.10",
+    "marked": "^0.3.19",
+    "moment": "^2.22.1",
+    "mustache": "^2.3.0",
+    "path": "^0.12.7",
+    "react": "^16.3.2",
+    "react-copy-to-clipboard": "^5.0.1",
+    "react-dom": "^16.3.2",
+    "react-scripts": "1.1.4",
+    "remove-markdown": "^0.2.2",
+    "reselect": "^3.0.1",
+    "rtl-detect": "^1.0.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "proxy": "http://localhost:8888",
+  "eslintConfig": {
+    "extends": "react-app"
+  }
+}
