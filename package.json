@@ -3,6 +3,7 @@
   "version": "0.1.0",
   "private": true,
   "dependencies": {
+    "@kang-health/web-chat-view": "https://87db76ab2a47021e9ab2c0d330dcff9b6f497661@github.com/kang-health/web-chat-view.git#v1.0.6",
     "admin-on-rest": "^1.4.1",
     "animated": "^0.2.2",
     "aor-embedded-array": "^0.1.0",
@@ -17,6 +18,7 @@
     "mustache": "^2.3.0",
     "path": "^0.12.7",
     "react": "^16.3.2",
+    "react-codemirror": "^1.0.0",
     "react-copy-to-clipboard": "^5.0.1",
     "react-dom": "^16.3.2",
     "react-scripts": "1.1.4",
