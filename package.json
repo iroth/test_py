@@ -17,7 +17,7 @@
         "array-to-sentence": "^2.0.0",
         "aws-sdk": "^2.285.1",
         "axios": "^0.18.0",
-        "bcrypt": "^3.0.0",
+        "bcrypt": "^5.0.0",
         "bfj-node4": "^5.3.1",
         "body-parser": "^1.18.3",
         "chart.js": "^2.7.3",
