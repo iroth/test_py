@@ -33,7 +33,7 @@ Markdown==2.6.11
 motor==2.0.0
 mypy-extensions==0.4.1
 networkx==2.2
-numpy==1.16.0
+numpy==1.22.2
 openpyxl==2.5.9
 pafy==0.5.4
 pandas==0.24.0
